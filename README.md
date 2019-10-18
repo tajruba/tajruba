@@ -1,2 +1,0 @@
-# tajruba
-tajruba team
